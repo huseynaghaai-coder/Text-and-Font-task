@@ -1,0 +1,32 @@
+*{
+    background-color: #f2f2f7;
+    color: #222;
+    margin: 40px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 28px;
+    color: #1a1a6b;
+}
+
+h2 {
+    color: #333399;
+    margin-bottom: 20px;
+}
+
+.heading {
+    line-height: 2.0;
+    text-indent: 40px;
+}
+
+.text {
+    text-align: center;
+}
+
+.box {
+    text-align: right;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+}
